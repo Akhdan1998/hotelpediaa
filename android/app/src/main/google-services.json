@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185270796315",
+    "project_id": "hotelpedia-7a984",
+    "storage_bucket": "hotelpedia-7a984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185270796315:android:ab9352075fcc102468f8be",
+        "android_client_info": {
+          "package_name": "com.parentoday.hotelpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185270796315-q4c94o2imet4dl0ihata9aggh0v7eqo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parentoday.hotelpedia",
+            "certificate_hash": "f8f9d1c0d2a39f397d46ddeb6d73333870f83b30"
+          }
+        },
+        {
+          "client_id": "185270796315-j9utpmnk5dsguncllh7270gv8tr3oqor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjk30BY95NVs3S-KgFrkduMX68AxMMyho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185270796315-j9utpmnk5dsguncllh7270gv8tr3oqor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
